@@ -1,0 +1,22 @@
+{
+  "name": "version-comparator",
+  "version": "1.0.0",
+  "authors": [
+    "v.zapolskydovnar@gmail.com <v.zapolskydovnar@gmail.com>"
+  ],
+  "description": "Simple comparator for 2 strings which are versions number",
+  "main": "index.js",
+  "keywords": [
+    "version",
+    "comparator"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vadzappa/version-comparator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
